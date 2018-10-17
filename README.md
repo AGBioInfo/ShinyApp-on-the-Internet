@@ -15,10 +15,15 @@ Most used R built-in data sets
 Use any of below data sets in Enter data.frame name field 
 
 mtcars
+
 iris
+
 ToothGrowth
+
 PlantGrowth
+
 USArrests
+
 rock
 
 
