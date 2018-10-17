@@ -11,9 +11,14 @@ App takes built-in R dataset as user input. Once the dataframe is selected, the 
 Independent variables are dependent on dependent variables. 
 
 Most used R built-in data sets
+
+Use any of below data sets in Enter data.frame name field 
+
 mtcars
 iris
 ToothGrowth
 PlantGrowth
 USArrests
 rock
+
+
